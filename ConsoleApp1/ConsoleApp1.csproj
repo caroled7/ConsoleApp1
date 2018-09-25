@@ -43,13 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assn2_ClientPortfolio.cs" />
-    <Compile Include="Assn2_Program.cs" />
-    <Compile Include="Assn2_Stock.cs" />
-    <Compile Include="Assn2_StockList_Students_1.cs" />
-    <Compile Include="Assn2_StockList_Students_2.cs" />
-    <Compile Include="Assn2_StockList_Students_3.cs" />
-    <Compile Include="Assn2_StockNode.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
